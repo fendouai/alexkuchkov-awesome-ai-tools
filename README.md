@@ -47,6 +47,7 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 | Writesonic     | SEO blog writing, ads                  | ✅ Free       | [writesonic.com](https://writesonic.com) |
 | Notion AI      | Project notes, docs                    | ⚠️ Limited| [notion.so](https://www.notion.so/product/ai) |
 | Rytr           | Quick short-form content               | ✅ Free       | [rytr.me](https://rytr.me) |
+| WarmQuant      | Notes-to-English drafts, angles and personas | ⚠️ Limited | [warmquant.com](https://warmquant.com/) |
 
 
 ## Text to MP3 / Speech
@@ -141,6 +142,5 @@ Always review each tool's official site for the latest terms and features.
 
 Curated with ❤️ by Alex  
 Inspired by the awesome open-source and QA/testing communities.
-
 
 
